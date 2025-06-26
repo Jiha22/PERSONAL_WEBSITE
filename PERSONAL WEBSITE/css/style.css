@@ -1,0 +1,27 @@
+<style>
+        nav ul 
+        {
+            list-style-type: none;
+            padding: 0;
+            background-color: skyblue;
+            overflow: hidden;
+            margin: 0;
+        }
+
+        nav li {
+            display: inline;
+        }
+
+        nav a {
+            display: inline-block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+        nav a:hover 
+        {
+            background-color: darkblue;
+        }
+    </style>
